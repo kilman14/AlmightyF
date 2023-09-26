@@ -4,7 +4,7 @@ while True:
     command = input(">..").lower()
     if command == "start":
         if started:
-            print("Car already started!")
+            print("Car is already to started!")
         else:
             started = True
             print("Car Started...")
