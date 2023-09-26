@@ -1,4 +1,4 @@
-let y = 23
+y = 23
 x = 12
-z = y = x
+z = y + x
 print(z)
